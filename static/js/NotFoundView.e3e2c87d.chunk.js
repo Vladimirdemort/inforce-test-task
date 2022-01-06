@@ -1,0 +1,2 @@
+(this["webpackJsonpinforce-test-task"]=this["webpackJsonpinforce-test-task"]||[]).push([[1],{70:function(e,r,t){"use strict";t.r(r),t.d(r,"default",(function(){return c}));var s=t(1);function c(e){var r=e.errorImage,t=e.messadge;return Object(s.jsxs)("div",{role:"alert",children:[Object(s.jsx)("img",{src:r,alt:"Error 404"}),Object(s.jsx)("p",{children:t})]})}}}]);
+//# sourceMappingURL=NotFoundView.e3e2c87d.chunk.js.map
