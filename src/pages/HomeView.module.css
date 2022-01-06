@@ -1,0 +1,27 @@
+.modalForm {
+  display: flex;
+  flex-direction: column;
+  padding: 30px 20px 50px 20px;
+}
+.modalLabel {
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.modalInput {
+  display: block;
+  margin-top: 3px;
+}
+.descriptionInput {
+  width: 400px;
+  height: 100px;
+  display: block;
+  margin-top: 3px;
+}
+.modalButtonContainer {
+  display: flex;
+  margin-top: 50px;
+}
+.modalButton {
+  cursor: pointer;
+  margin-right: 10px;
+}

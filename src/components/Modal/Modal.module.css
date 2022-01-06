@@ -13,6 +13,7 @@
 
 .Modal {
   background-color: antiquewhite;
-  width: 480px;
-  height: 640px;
+  max-width: 480px;
+  max-height: 640px;
+  border-radius: 5px;
 }
